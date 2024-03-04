@@ -9,13 +9,11 @@ response = requests.get(url_link)
 soup = BeautifulSoup(response.text, "html.parser")
 
 header = soup.select_one('h1.elementor-heading-title.elementor-size-default')
-print(header.text)
 
 scraped_openings = []
 res = soup.findAll(id = "cb-container")
 for auto in res[1].findAll("a"):
     scraped_openings.append(auto.find("h5").text)
-    # print(f'[wiecej info tutaj]({auto["href"]})')
 
 
 container = soup.find('div', class_='elementor-text-editor elementor-clearfix')
@@ -33,10 +31,9 @@ with open('intro.md', 'w', encoding='utf-8') as file:
     buffer = f'# {header.text} \n'
     file.write("---\n")
     file.write("layout: page\n")
-    file.write("title: \"Intro\"\n")
+    file.write("title: \"Chess Openings - intro\"\n")
     file.write("permalink: /intro/\n")
     file.write("---\n")
-    file.write(buffer)
     file.write(long_text)
     buffer = f'[list of openings](list_of_openings)'
     file.write(buffer)
@@ -51,13 +48,10 @@ def scrape_opening_details(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
     
-    # Znajdowanie diva z klasą 'grid-65 mobile-grid-100 nopadding normal-left-col cb-post-grid'
-    # i pobieranie drugiego i trzeciego paragrafu
     container = soup.find('div', class_='grid-65 mobile-grid-100 nopadding normal-left-col cb-post-grid')
     if container:
         paragraphs = container.find_all('p')
         if len(paragraphs) >= 3:
-            # Zwracanie tekstu drugiego i trzeciego paragrafu jako opisu
             return paragraphs[1].text + '\n\n' + paragraphs[2].text
     return "Description unavailable"
 
@@ -65,8 +59,6 @@ def scrape_opening_info(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
     
-    # Znajdowanie diva z klasą 'grid-65 mobile-grid-100 nopadding normal-left-col cb-post-grid'
-    # i pobieranie drugiego i trzeciego paragrafu
     container = soup.find('div', class_='grid-65 mobile-grid-100 nopadding normal-left-col cb-post-grid')
     if container:
         paragraphs = container.find_all('p')
@@ -82,12 +74,11 @@ if not os.path.exists('openings'):
 with open('list_of_openings.md', 'w', encoding='utf-8') as file:
     file.write("---\n")
     file.write("layout: page\n")
-    file.write("title: \"List of openings\"\n")
+    file.write("title: \"List of chess openings\"\n")
     file.write("permalink: /intro/list_of_openings/\n")
     file.write("---\n")
 
-    file.write("# List of chess openings\n\n")
-    file.write(f"[back to intro](../intro)\n\n")
+    file.write(f"[back to intro](../)\n\n")
     for name, link in openings:
         detail_url = "https://www.thechesswebsite.com/" + link.replace("openings/", "").replace(".md", "/")
         short_description = scrape_opening_details(detail_url)
@@ -104,6 +95,7 @@ with open('list_of_openings.md', 'w', encoding='utf-8') as file:
             detail_file.write("title: null\n")
             detail_file.write("title-heading: false\n")
             detail_file.write("layout: page\n")
+            detail_file.write("exclude: true\n")
             detail_file.write(f"permalink: /{local_detail_link}/\n")
             detail_file.write("---\n\n")
 
@@ -111,18 +103,3 @@ with open('list_of_openings.md', 'w', encoding='utf-8') as file:
             detail_file.write(f"[back to list](../../list_of_openings)\n\n")
             detail_file.write(long_description)
 
-
-
-
-
-
-
-# tworzenie pliku dla kazdego otwarcia
-# if not os.path.exists('openings'):
-#     os.makedirs('openings')
-
-# for name, link in openings:
-#     opening_content = "cos o kontencie"
-
-#     with open(link, 'w', encoding = 'utf-8') as file:
-#         file.write(opening_content)
