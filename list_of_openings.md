@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/
 ---
 # List of chess openings
 
-[back to intro](../intro)
+[back to intro](..)
 
 ## [Adelaide Counter Gambit](https://www.thechesswebsite.com/adelaide-counter-gambit/)
 The Adelaide Counter Gambit is a solid attack against the King’s Gambit for black and begins with the moves:
@@ -278,7 +278,9 @@ Description unavailable
 [(...) for more info click here!](list_of_openings/kings-indian-defense/)
 
 ## [Larsens Opening](https://www.thechesswebsite.com/larsens-opening/)
-Description unavailable
+Larsens Opening is a change of pace from the typical openings where white looks to control the center of the board with this d and e pawns.  Instead white will play his bishop to b2 and control the dark square diagonal which will put pressure on black’s king side.
+
+This is not an aggressive opening but does give white many favorable positions and also is poorly prepared for by black.
 
 [(...) for more info click here!](list_of_openings/larsens-opening/)
 
@@ -470,7 +472,12 @@ Description unavailable
 [(...) for more info click here!](list_of_openings/slav-geller-gambit/)
 
 ## [Smith Morra Gambit](https://www.thechesswebsite.com/smith-morra-gambit/)
-Description unavailable
+The Smith Morra Gambit is a sharp and aggressive line against the Sicilian Defense from black. If you play e4 as white for any length of time you probably run into the Sicilian Defense quite often.
+
+1. e4 c5
+2. d4 cxd4
+3. c3 dxc3
+4. Nxc3
 
 [(...) for more info click here!](list_of_openings/smith-morra-gambit/)
 

@@ -1,4 +1,5 @@
 ---
+title-heading: false
 layout: page
 permalink: /intro/list_of_openings/adelaide-counter-gambit/
 ---
