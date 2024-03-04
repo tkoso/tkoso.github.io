@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/
 ---
 # List of chess openings
 
-[back to intro](..)
+[back to intro](../../)
 
 ## [Adelaide Counter Gambit](https://www.thechesswebsite.com/adelaide-counter-gambit/)
 The Adelaide Counter Gambit is a solid attack against the King’s Gambit for black and begins with the moves:
@@ -148,10 +148,7 @@ The Dutch Defense is a very active defense in chess against the Queen pawn openi
 [(...) for more info click here!](list_of_openings/dutch-defense/)
 
 ## [Elephant Gambit](https://www.thechesswebsite.com/elephant-gambit/)
-The Elephant Gambit is an uncommon gambit that arrives after the starting moves:
-
-1. e4 e5
-2. Nf3 d5
+Description unavailable
 
 [(...) for more info click here!](list_of_openings/elephant-gambit/)
 
@@ -307,7 +304,9 @@ The Lolli Attack is an aggressive opening for white in the Italian game when bla
 [(...) for more info click here!](list_of_openings/lolli-attack/)
 
 ## [London System](https://www.thechesswebsite.com/london-system/)
-Description unavailable
+The London System is a great chess opening for beginning chess players. It quickly develops the dark square bishop which is a very underutilized minor piece for white.
+
+The opening doesn’t start out aggressive, and many times ends in a closed game, but it gives white lots of options and is very useful is stopping black from any counterattack.
 
 [(...) for more info click here!](list_of_openings/london-system/)
 

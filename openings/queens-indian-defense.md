@@ -1,5 +1,5 @@
 ---
-title-heading: false
+name: xyztitle-heading: false
 layout: page
 permalink: /intro/list_of_openings/queens-indian-defense/
 ---
