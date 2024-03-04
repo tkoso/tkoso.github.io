@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/dutch-defense/
 
 # Dutch Defense
 
-[back to list](../)
+[back to list](..)
 
 
 

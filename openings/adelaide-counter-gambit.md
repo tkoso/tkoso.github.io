@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/adelaide-counter-gambit/
 
 # Adelaide Counter Gambit
 
-[back to list](../)
+[back to list](..)
 
 
 

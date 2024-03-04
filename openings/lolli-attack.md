@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/lolli-attack/
 
 # Lolli Attack
 
-[back to list](../)
+[back to list](..)
 
 
 

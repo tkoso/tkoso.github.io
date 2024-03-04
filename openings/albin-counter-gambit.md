@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/albin-counter-gambit/
 
 # Albin Counter-Gambit
 
-[back to list](../)
+[back to list](..)
 
 
 

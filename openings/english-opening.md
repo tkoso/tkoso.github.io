@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/english-opening/
 
 # English Opening
 
-[back to list](../)
+[back to list](..)
 
 
 

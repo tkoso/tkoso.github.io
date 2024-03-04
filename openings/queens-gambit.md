@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/queens-gambit/
 
 # Queens Gambit
 
-[back to list](../)
+[back to list](..)
 
 The Queen’s Gambit is probably the most popular gambit and although most gambits are said to be unsound against perfect play the queen’s gambit is said to be the exception.
 

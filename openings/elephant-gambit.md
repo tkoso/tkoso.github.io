@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/elephant-gambit/
 
 # Elephant Gambit
 
-[back to list](../)
+[back to list](..)
 
 
 

@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/reti-opening/
 
 # Reti Opening
 
-[back to list](../)
+[back to list](..)
 
 
 

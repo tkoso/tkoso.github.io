@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/halloween-gambit/
 
 # Halloween Gambit
 
-[back to list](../)
+[back to list](..)
 
 
 

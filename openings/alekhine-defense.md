@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/alekhine-defense/
 
 # Alekhine Defense
 
-[back to list](../)
+[back to list](..)
 
 The Alekhine Defense is a hypermodern defense against the ever so popular e4 opening from white.
 

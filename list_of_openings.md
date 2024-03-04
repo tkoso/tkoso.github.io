@@ -5,6 +5,8 @@ permalink: /intro/list_of_openings
 ---
 # List of chess openings
 
+[back to intro](..)
+
 ## [Adelaide Counter Gambit](https://www.thechesswebsite.com/adelaide-counter-gambit/)
 The Adelaide Counter Gambit is a solid attack against the King’s Gambit for black and begins with the moves:
 
@@ -40,16 +42,18 @@ Description unavailable
 [(...) for more info click here!](baltic-defense/)
 
 ## [Belgrade Gambit](https://www.thechesswebsite.com/belgrade-gambit/)
-Description unavailable
+The Belgrade Gambit is an aggressive line that derives from the Scotch Four Knights Game:
+
+1. e4 e5
+2. Nf3 Nc6
+3. Nc3 Nf6
+4. d4 exd4
+5. Nd5
 
 [(...) for more info click here!](belgrade-gambit/)
 
 ## [Benoni Defense](https://www.thechesswebsite.com/benoni-defense/)
-The Benoni Defense is a very aggressive line that black can play to counter the very common open by white d4. While many defenses against the queen pawn opening are closed and drawish, the Benoni Defense gives black many opportunities to not only equalize the position, but also to gain an advantage and play for the win.
-
-1. d4 Nf6
-2. c4 c5
-3. d5
+Description unavailable
 
 [(...) for more info click here!](benoni-defense/)
 
@@ -92,10 +96,7 @@ Description unavailable
 [(...) for more info click here!](bowlder-attack/)
 
 ## [Budapest Gambit](https://www.thechesswebsite.com/budapest-gambit/)
-The Budapest Gambit is one of the least common gambits but still offers black a lot of interesting play. In the main line for example, white can easily fall into a trap that ends in checkmate very early in the game.
-
-1. d4 Nf6
-2. c4 e5
+Description unavailable
 
 [(...) for more info click here!](budapest-gambit/)
 
@@ -105,9 +106,7 @@ Description unavailable
 [(...) for more info click here!](calabrese-countergambit/)
 
 ## [Caro-Kann](https://www.thechesswebsite.com/caro-kann/)
-The Caro-Kann Defense is one of the most popular openings in response to the King’s Pawn Opening.
-
-1. e4 c6
+Description unavailable
 
 [(...) for more info click here!](caro-kann/)
 
@@ -169,10 +168,7 @@ Description unavailable
 [(...) for more info click here!](fajarowicz-gambit/)
 
 ## [Falkbeer Counter-Gambit](https://www.thechesswebsite.com/falkbeer-counter-gambit/)
-The Falkbeer Counter-Gambit is one of the most aggressive openings for black. It is a direct counter attack against the King’s Gambit of white.
-
-1. e4 e5
-2. f4 d5
+Description unavailable
 
 [(...) for more info click here!](falkbeer-counter-gambit/)
 
@@ -189,12 +185,7 @@ The French Defense is a sharp counterattacking weapon against white’s King Paw
 [(...) for more info click here!](french-defense/)
 
 ## [Fried Liver Attack](https://www.thechesswebsite.com/fried-liver-attack/)
-The Fried Liver Attack is one of the most aggressive openings from white as you will be sacrificing one of your minor pieces very early in the game.
-
-1. e4 e5
-2. Nf3 Nc6
-3. Bc4 Nf6
-4. Ng5
+Description unavailable
 
 [(...) for more info click here!](fried-liver-attack/)
 
@@ -264,13 +255,7 @@ Description unavailable
 [(...) for more info click here!](italian-game/)
 
 ## [Jerome Gambit](https://www.thechesswebsite.com/jerome-gambit/)
-The Jerome Gambit is an extremely aggressive opening that usually derives from the Giuoco Piano. White sacrifices both his king side bishop and knight in exchange for an exposed king and the possibility of an aggressive attack. Moves usually start with:
-
-1. e4 e5
-2. Nf3 Nc6
-3. Bc4 Bc5
-4. Bxf7+ Kxf7
-5. Nxe5+ Nxe5
+Description unavailable
 
 [(...) for more info click here!](jerome-gambit/)
 
@@ -290,9 +275,7 @@ Description unavailable
 [(...) for more info click here!](kings-indian-defense/)
 
 ## [Larsens Opening](https://www.thechesswebsite.com/larsens-opening/)
-Larsens Opening is a change of pace from the typical openings where white looks to control the center of the board with this d and e pawns.  Instead white will play his bishop to b2 and control the dark square diagonal which will put pressure on black’s king side.
-
-This is not an aggressive opening but does give white many favorable positions and also is poorly prepared for by black.
+Description unavailable
 
 [(...) for more info click here!](larsens-opening/)
 
@@ -302,13 +285,7 @@ Description unavailable
 [(...) for more info click here!](latvian-gambit/)
 
 ## [Locock Gambit](https://www.thechesswebsite.com/locock-gambit/)
-The Locock Gambit is a very aggressive line in the Philidor Defense and starts with the moves:
-
-1.e4 e5
-2.Nf3 d6
-3.d4 Nf6
-4.Ng5 h6
-5.Nxf7
+Description unavailable
 
 [(...) for more info click here!](locock-gambit/)
 
@@ -330,11 +307,7 @@ Description unavailable
 [(...) for more info click here!](london-system/)
 
 ## [Matinovsky Gambit](https://www.thechesswebsite.com/matinovsky-gambit/)
-The Matinovsky Gambit is an aggressive line by black in the Owen’s Defense. It starts with the moves:
-
-1. e4 b6
-2. d4 Bb7
-3. Bd3 f5
+Description unavailable
 
 [(...) for more info click here!](matinovsky-gambit/)
 
@@ -349,25 +322,12 @@ Description unavailable
 [(...) for more info click here!](mieses-opening/)
 
 ## [Muzio Gambit](https://www.thechesswebsite.com/muzio-gambit/)
-The Muzio Gambit is one of the most aggressive lines in the already aggressive King’s Gambit.
-
-1. e4 e5
-2. f4 exf4
-3. Nf3 g5
-4. Bc4 g4
-5. 0-0
+Description unavailable
 
 [(...) for more info click here!](muzio-gambit/)
 
 ## [Nakhmanson Gambit](https://www.thechesswebsite.com/nakhmanson-gambit/)
-The Nakhmanson Gambit is one of the most aggressive lines that white can take in the Italian Game. White looks to give up two pawns and a knight in exchange for rapid development and some deadly attacks on the black king. The opening usually starts with the moves:
-
-1.e4 e5
-2.Nf3 Nc6
-3.Bc4 Nf6
-4.d4 exd4
-5.O-O Nxe4
-6.Nc3
+Description unavailable
 
 [(...) for more info click here!](nakhmanson-gambit/)
 
@@ -377,11 +337,7 @@ Description unavailable
 [(...) for more info click here!](napoleon-opening/)
 
 ## [Nimzo Indian Defense](https://www.thechesswebsite.com/nimzo-indian-defense/)
-The Nimzo Indian Defense is an extremely solid defense that is seen at all levels of play. Many players playing as white will try different variations to try to avoid going into the Nimzo Indian Defense lines.
-
-1. d4 Nf6
-2. c4 e6
-3. Nc3 Bb4
+Description unavailable
 
 [(...) for more info click here!](nimzo-indian-defense/)
 
@@ -391,17 +347,12 @@ Description unavailable
 [(...) for more info click here!](nimzowitsch-defense/)
 
 ## [Petrov Defense](https://www.thechesswebsite.com/petrov-defense/)
-The Petrov Defense, sometimes referred to as the Russian game is one of the more popular games with GMs because of its generally drawish tendencies. Many other players prefer to play the Petrov Defense so that they can avoid the lines of the Ruy Lopez, the Italian Game and the Scotch Game. For those players that like to play e5 but don’t like the normal defenses, then this might be a good alternative.
-
-Black has to be careful with how he continues in the Petrov. If white captures on e5 then black can’t continue to mirror and take on e4 or he will end up being down in material. Instead black should first play d6, forcing the white knight back and then take on e4. If both sides want to open things up, then they can exchange knights on c3 which will usually result in a queenside castle for white and very aggressive play from both sides.
+Description unavailable
 
 [(...) for more info click here!](petrov-defense/)
 
 ## [Philidor Defense](https://www.thechesswebsite.com/philidor-defense/)
-The Philidor Defense is an alternative move to the more common 2…Nc6 move from black. While very solid, it is extremely passive and thought to be a weaker option to Nc6. Because of this, it is rare to see at high level play.
-
-1. e4 e5
-2. Nf3 d6
+Description unavailable
 
 [(...) for more info click here!](philidor-defense/)
 
@@ -415,7 +366,11 @@ The Pirc Defense is a hypermodern defense, meaning that it doesn’t try to cont
 [(...) for more info click here!](pirc-defense/)
 
 ## [Ponziani Opening](https://www.thechesswebsite.com/ponziani-opening/)
-Description unavailable
+The ponziani opening begins with the moves
+
+1. e4 e5
+2. Nf3 Nc6
+3. c3
 
 [(...) for more info click here!](ponziani-opening/)
 
@@ -433,11 +388,7 @@ The objective of the queen’s gambit is to temporarily sacrifice a pawn to gain
 [(...) for more info click here!](queens-gambit/)
 
 ## [Queens Indian Defense](https://www.thechesswebsite.com/queens-indian-defense/)
-The Queen’s Indian Defense is an extremely solid hypermodern defense against the d4 opening from white. It usually arises if white chooses to avoid the Nimzo-Indian defense by bringing his knight to c3 and instead opts to first bring his knight to f3.
-
-1. d4 Nf6
-2. c4 e6
-3. Nf3 b6
+Description unavailable
 
 [(...) for more info click here!](queens-indian-defense/)
 
@@ -467,16 +418,14 @@ Description unavailable
 [(...) for more info click here!](rousseau-gambit/)
 
 ## [Ruy Lopez](https://www.thechesswebsite.com/ruy-lopez/)
-The Ruy Lopez is the cornerstone of classical play in chess. There are probably more variations for the Ruy Lopez than any other opening. With the common use of the double king’s pawn opening (1.e4 e5), the Ruy Lopez is one of the most played openings that any chess player will come across. It’s almost imperative that any chess player study some of the more popular defenses against the Ruy Lopez and understand some of the key concepts of the opening.
-
-1. e4 e5
-2. Nf3 Nc6
-3. Bb5
+Description unavailable
 
 [(...) for more info click here!](ruy-lopez/)
 
 ## [Scandinavian Defense](https://www.thechesswebsite.com/scandinavian-defense/)
-Description unavailable
+The Scandinavian Defense is one of the oldest recorded openings in chess. From the very first move, black looks to undermine the center control of white after the common e4 move by white.
+
+1. e4 d5
 
 [(...) for more info click here!](scandinavian-defense/)
 
@@ -486,31 +435,17 @@ Description unavailable
 [(...) for more info click here!](schliemann-gambit/)
 
 ## [Scotch Gambit](https://www.thechesswebsite.com/scotch-gambit/)
-There are a few ways to offer a gambit as white in the Scotch Game.  The most common, and one that we will focus on this page, is white playing Bc4 instead of taking with his knight on d4.
-
-1. e4 e5
-2. Nf3 Nc6
-3. d4 exd4
-4. Bc4
+Description unavailable
 
 [(...) for more info click here!](scotch-gambit/)
 
 ## [Scotch Game](https://www.thechesswebsite.com/scotch-game/)
-The Scotch Game has recently regained popularity as many top level players have used it as a surprise against players who are well equipped to face the Ruy Lopez. The Scotch is very similar to the Center Game where d4 opens up lines for development and also gives white early center control. In the Scotch Game, black will be able to develop easy and white should look to take advantage of its special and center control.
-
-1. e4 e5
-2. Nf3 Nc6
-3. d4
+Description unavailable
 
 [(...) for more info click here!](scotch-game/)
 
 ## [Semi-Slav](https://www.thechesswebsite.com/semi-slav/)
-The Semi-Slav Defense is one of the most popular defenses for black against the Queen’s Gambit line from white. This opening is seen at all levels of chess competition and is often seen as one of the most sound defenses at top level play.
-
-1.d4 d5
-2.c4 c6
-3.Nf3 Nf6
-4.Nc3 e6
+Description unavailable
 
 [(...) for more info click here!](semi-slav/)
 
@@ -522,10 +457,7 @@ Eventually the c-pawn of black is usually exchanged, opening the semi-open c fil
 [(...) for more info click here!](sicilian-defense/)
 
 ## [Slav Defense](https://www.thechesswebsite.com/slav-defense/)
-The Slav Defense is one of the most popular openings with GM’s. This is for two reasons. The first is that it is one of the most solid lines to play against the Queens Gambit and with the Queens Gambit being a regular opening at high level play, many top players have become fans of this opening.
-
-1. d4 d5
-2. c4 c6
+Description unavailable
 
 [(...) for more info click here!](slav-defense/)
 
@@ -573,16 +505,12 @@ The Tennison Gambit is an aggressive line against the Scandinavian defense that 
 [(...) for more info click here!](tennison-gambit/)
 
 ## [The Alien Gambit Trap](https://www.thechesswebsite.com/the-alien-gambit-trap/)
-The dance begins with the classic 1.e4. In response, Black sets the stage for the Caro-Kann, steering the pawn to c6. The plan? To challenge White’s central dominance with …d5. White, however, is undeterred and solidifies their grasp on the center with d4.
-
-
+Description unavailable
 
 [(...) for more info click here!](the-alien-gambit-trap/)
 
 ## [The Three Knights Game](https://www.thechesswebsite.com/the-three-knights-game/)
-
-
-Let’s unpack this chess opening and discover why it might be your next strategic move on the board. We start with the classic opening moves: 1. e4 e5 2. Nf3 Nc6, setting a familiar chessboard stage. Things take a twist when White plays 3. Nc3. At this junction, should Black respond with 3...Nf6, we’re ushered into the Four Knights Game. However, our focus is on the alternatives Black has at their disposal, sidestepping 3...Nf6.
+Description unavailable
 
 [(...) for more info click here!](the-three-knights-game/)
 
@@ -614,7 +542,10 @@ Description unavailable
 [(...) for more info click here!](veresov-attack/)
 
 ## [Vienna Game](https://www.thechesswebsite.com/vienna-game/)
-Description unavailable
+The Vienna Game is one of the most fundamentally sound openings in chess. It follows all of the basic opening principles and allows for creativity for both aggressive and non-aggressive players.
+
+1. e4 e5
+2. Nc3
 
 [(...) for more info click here!](vienna-game/)
 

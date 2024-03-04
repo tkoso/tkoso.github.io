@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/grunfeld-defense/
 
 # Grunfeld Defense
 
-[back to list](../)
+[back to list](..)
 
 
 

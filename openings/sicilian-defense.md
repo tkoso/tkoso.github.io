@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/sicilian-defense/
 
 # Sicilian Defense
 
-[back to list](../)
+[back to list](..)
 
 
 
