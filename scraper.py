@@ -87,20 +87,21 @@ with open('list_of_openings.md', 'w', encoding='utf-8') as file:
     file.write("---\n")
 
     file.write("# List of chess openings\n\n")
-    file.write(f"[back to intro](../../)\n\n")
+    file.write(f"[back to intro](../intro)\n\n")
     for name, link in openings:
         detail_url = "https://www.thechesswebsite.com/" + link.replace("openings/", "").replace(".md", "/")
         short_description = scrape_opening_details(detail_url)
         long_description = scrape_opening_info(detail_url)
         local_detail_link = f"intro/list_of_openings/{link.replace('openings/', '').replace('.md', '')}"
-        cropped_link = link.replace('openings/', 'list_of_openings/').replace('.md', '/')
+        cropped_link = link.replace('openings/', '').replace('.md', '/')
         
         file.write(f"## [{name}]({detail_url})\n")
         file.write(f"{short_description}\n\n")
         file.write(f"[(...) for more info click here!]({cropped_link})\n\n")
         with open(link, 'w', encoding = 'utf-8') as detail_file:
             detail_file.write("---\n")
-            detail_file.write("name: xyz")
+            detail_file.write("name: \"xyz\"\n")
+            detail_file.write("title: null\n")
             detail_file.write("title-heading: false\n")
             detail_file.write("layout: page\n")
             detail_file.write(f"permalink: /{local_detail_link}/\n")
