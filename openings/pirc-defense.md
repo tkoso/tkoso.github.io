@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/pirc-defense/
 
 # Pirc Defense
 
-[back to list](../../intro/list_of_openings)
+[back to list](../../list_of_openings)
 
 
 

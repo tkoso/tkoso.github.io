@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/grob-attack/
 
 # Grob Attack
 
-[back to list](../../intro/list_of_openings)
+[back to list](../../list_of_openings)
 
 
 

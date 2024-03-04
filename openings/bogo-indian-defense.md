@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/bogo-indian-defense/
 
 # Bogo Indian Defense
 
-[back to list](../../intro/list_of_openings)
+[back to list](../../list_of_openings)
 
 
 

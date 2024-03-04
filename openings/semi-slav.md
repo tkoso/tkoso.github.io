@@ -5,6 +5,6 @@ permalink: /intro/list_of_openings/semi-slav/
 
 # Semi-Slav
 
-[back to list](../../intro/list_of_openings)
+[back to list](../../list_of_openings)
 
 Description unavailable

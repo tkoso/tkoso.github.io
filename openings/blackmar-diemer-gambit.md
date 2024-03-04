@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/blackmar-diemer-gambit/
 
 # Blackmar-Diemer Gambit
 
-[back to list](../../intro/list_of_openings)
+[back to list](../../list_of_openings)
 
 
 
