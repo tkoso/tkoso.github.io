@@ -422,7 +422,11 @@ Description unavailable
 [(...) for more info click here!](rousseau-gambit/)
 
 ## [Ruy Lopez](https://www.thechesswebsite.com/ruy-lopez/)
-Description unavailable
+The Ruy Lopez is the cornerstone of classical play in chess. There are probably more variations for the Ruy Lopez than any other opening. With the common use of the double king’s pawn opening (1.e4 e5), the Ruy Lopez is one of the most played openings that any chess player will come across. It’s almost imperative that any chess player study some of the more popular defenses against the Ruy Lopez and understand some of the key concepts of the opening.
+
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5
 
 [(...) for more info click here!](ruy-lopez/)
 
