@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "List of openings"
-permalink: /intro/list_of_openings
+permalink: /intro/list_of_openings/
 ---
 # List of chess openings
 
@@ -156,9 +156,7 @@ The Elephant Gambit is an uncommon gambit that arrives after the starting moves:
 [(...) for more info click here!](list_of_openings/elephant-gambit/)
 
 ## [English Opening](https://www.thechesswebsite.com/english-opening/)
-The English opening is the 4th most common opening for white. Although the English has its own style, the opening is very flexible and many times transposes into other opening lines. The objective of the opening is to apply pressure on the center d5 square without committing the queen pawn or the king pawn. Since the move is a flank move many players like the English because of its hypermodern style of play (using pieces from the sides along with minor pieces to apply pressure and control the center).
-
-White’s 2nd move depends on black’s response. If black does not immediately try to control the center white can fianchetto his bishop with 2. g3 3. Bg2 and white starts to apply even more pressure on the d5 square and gives white the control over the light squares. Many English games will start out very slow as both sides build up pressure around the center.
+Description unavailable
 
 [(...) for more info click here!](list_of_openings/english-opening/)
 
@@ -537,7 +535,11 @@ Description unavailable
 [(...) for more info click here!](list_of_openings/trompowsky-attack/)
 
 ## [Urusov Gambit](https://www.thechesswebsite.com/urusov-gambit/)
-Description unavailable
+The Urusov Gambit is an aggressive line in the Bishop’s opening that starts with the moves:
+
+1. e4 e5
+2. Bc4 Nf6
+3. d4
 
 [(...) for more info click here!](list_of_openings/urusov-gambit/)
 
