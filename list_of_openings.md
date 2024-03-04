@@ -194,7 +194,11 @@ Description unavailable
 [(...) for more info click here!](gianutio-counter-gambit/)
 
 ## [Giuoco Piano](https://www.thechesswebsite.com/giuoco-piano/)
-Description unavailable
+The Giuoco Piano is said to be the oldest opening recorded in chess. Instead of developing the bishop to b5, white instead attacks the center and aims at the weak f7 square. After black responds bishop to c5 you see the tension building up in the center of the board.
+
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Bc5
 
 [(...) for more info click here!](giuoco-piano/)
 
@@ -216,11 +220,7 @@ The Grob Attack is not a common opening and many people think of it as one of wh
 [(...) for more info click here!](grob-attack/)
 
 ## [Grunfeld Defense](https://www.thechesswebsite.com/grunfeld-defense/)
-The Grunfeld Defense is a hypermodern defense, meaning that it doesn’t try to control the center early on with his pawns. Instead black tries to attack the center with this minor pieces from the sides and then once the foundation is in place, then looks to undermine the center control that white usually has.
-
-1. d4 Nf6
-2. c4 g6
-3. Nc3 d5
+Description unavailable
 
 [(...) for more info click here!](grunfeld-defense/)
 
