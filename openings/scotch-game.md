@@ -5,6 +5,6 @@ permalink: /intro/list_of_openings/scotch-game/
 
 # Scotch Game
 
-[back to list](..)
+[back to list](../../intro/list_of_openings)
 
 Description unavailable

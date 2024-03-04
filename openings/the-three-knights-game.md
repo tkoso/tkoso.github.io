@@ -5,6 +5,6 @@ permalink: /intro/list_of_openings/the-three-knights-game/
 
 # The Three Knights Game
 
-[back to list](..)
+[back to list](../../intro/list_of_openings)
 
 Description unavailable

@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/traxler-counter-attack/
 
 # Traxler Counter Attack
 
-[back to list](..)
+[back to list](../../intro/list_of_openings)
 
 
 

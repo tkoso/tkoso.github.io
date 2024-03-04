@@ -5,6 +5,6 @@ permalink: /intro/list_of_openings/chigorin-defense/
 
 # Chigorin Defense
 
-[back to list](..)
+[back to list](../../intro/list_of_openings)
 
 Description unavailable

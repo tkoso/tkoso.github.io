@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings
 ---
 # List of chess openings
 
-[back to intro](..)
+[back to intro](../intro)
 
 ## [Adelaide Counter Gambit](https://www.thechesswebsite.com/adelaide-counter-gambit/)
 The Adelaide Counter Gambit is a solid attack against the King’s Gambit for black and begins with the moves:
@@ -106,7 +106,9 @@ Description unavailable
 [(...) for more info click here!](list_of_openings/calabrese-countergambit/)
 
 ## [Caro-Kann](https://www.thechesswebsite.com/caro-kann/)
-Description unavailable
+The Caro-Kann Defense is one of the most popular openings in response to the King’s Pawn Opening.
+
+1. e4 c6
 
 [(...) for more info click here!](list_of_openings/caro-kann/)
 

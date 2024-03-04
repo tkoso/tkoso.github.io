@@ -5,6 +5,6 @@ permalink: /intro/list_of_openings/jerome-gambit/
 
 # Jerome Gambit
 
-[back to list](..)
+[back to list](../../intro/list_of_openings)
 
 Description unavailable

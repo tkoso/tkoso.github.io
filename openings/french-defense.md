@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/french-defense/
 
 # French Defense
 
-[back to list](..)
+[back to list](../../intro/list_of_openings)
 
 
 

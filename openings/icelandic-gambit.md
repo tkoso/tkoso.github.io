@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/icelandic-gambit/
 
 # Icelandic Gambit
 
-[back to list](..)
+[back to list](../../intro/list_of_openings)
 
 
 

@@ -5,6 +5,6 @@ permalink: /intro/list_of_openings/evans-gambit/
 
 # Evans Gambit
 
-[back to list](..)
+[back to list](../../intro/list_of_openings)
 
 Description unavailable

@@ -5,6 +5,6 @@ permalink: /intro/list_of_openings/london-system/
 
 # London System
 
-[back to list](..)
+[back to list](../../intro/list_of_openings)
 
 Description unavailable
