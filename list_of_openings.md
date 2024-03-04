@@ -5,7 +5,7 @@ permalink: /intro/list_of_openings/
 ---
 # List of chess openings
 
-[back to intro](../../)
+[back to intro](../)
 
 ## [Adelaide Counter Gambit](https://www.thechesswebsite.com/adelaide-counter-gambit/)
 The Adelaide Counter Gambit is a solid attack against the King’s Gambit for black and begins with the moves:
