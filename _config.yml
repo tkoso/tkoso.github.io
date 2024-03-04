@@ -36,7 +36,7 @@ plugins:
 
 collections:
   openings:
-    output: true
+    output: false
     permalink: /openings/:name/
 
 # Exclude from processing.
