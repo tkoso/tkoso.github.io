@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "List of openings"
+title: "List of chess openings"
 permalink: /intro/list_of_openings/
 ---
-# List of chess openings
-
 [back to intro](../)
 
 ## [Adelaide Counter Gambit](https://www.thechesswebsite.com/adelaide-counter-gambit/)
@@ -148,7 +146,10 @@ The Dutch Defense is a very active defense in chess against the Queen pawn openi
 [(...) for more info click here!](dutch-defense/)
 
 ## [Elephant Gambit](https://www.thechesswebsite.com/elephant-gambit/)
-Description unavailable
+The Elephant Gambit is an uncommon gambit that arrives after the starting moves:
+
+1. e4 e5
+2. Nf3 d5
 
 [(...) for more info click here!](elephant-gambit/)
 
@@ -178,9 +179,7 @@ Description unavailable
 [(...) for more info click here!](four-knights-game/)
 
 ## [French Defense](https://www.thechesswebsite.com/french-defense/)
-The French Defense is a sharp counterattacking weapon against white’s King Pawn opening.
-
-1. e4 e6
+Description unavailable
 
 [(...) for more info click here!](french-defense/)
 
@@ -241,11 +240,7 @@ Description unavailable
 [(...) for more info click here!](hungarian-defense/)
 
 ## [Icelandic Gambit](https://www.thechesswebsite.com/icelandic-gambit/)
-The Icelandic Gambit is an aggressive alternative to the Scandinavian Defense.  Instead of taking the pawn on d5, black looks to give up the material in exchange for developmental lead and a semi-open file for his queen.
-
-1. e4 d5
-2. exd5 Nf6
-3. c4 e6
+Description unavailable
 
 [(...) for more info click here!](icelandic-gambit/)
 
@@ -510,10 +505,7 @@ Description unavailable
 [(...) for more info click here!](stonewall-attack/)
 
 ## [Tennison Gambit](https://www.thechesswebsite.com/tennison-gambit/)
-The Tennison Gambit is an aggressive line against the Scandinavian defense that starts with the moves:
-
-1. e4 d5
-2. Nf3
+Description unavailable
 
 [(...) for more info click here!](tennison-gambit/)
 
